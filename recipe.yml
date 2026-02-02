@@ -29,7 +29,7 @@ stages:
       packages:
       - curl
       - vim
-      - sh
+      - bash
 
   - name: Install Tailscale
     type: shell

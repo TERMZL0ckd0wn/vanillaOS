@@ -30,6 +30,7 @@ stages:
       - curl
       - vim
       - bash
+      - fastfetch
 
   - name: Install Tailscale
     type: shell

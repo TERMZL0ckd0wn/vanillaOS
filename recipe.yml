@@ -1,5 +1,5 @@
-name: Mxrks vanillaOS # Replace this name with your image name
-id: vanillaOS # Replace this ID with your image ID
+name: Mxrks vanillaOS 
+id: vanillaOS
 stages:
 - id: build
   base: ghcr.io/vanilla-os/desktop:main # Optionally, Replace this image URL with a different one i.e. nvidia:main, etc

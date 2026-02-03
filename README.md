@@ -1,8 +1,8 @@
 # Mxrkdv's vanillaOS Image
 Just for me, not anyone alse. pls no fork for push. Based on `vanilla-os/desktop:main`
 
-## QoL things that are preinstalled in this image
-- Has Tailscale & Docker for local and remote development
+## Things inside this image
+- Tailscale for remote management
 
 ## Install this f*ck a** image
 

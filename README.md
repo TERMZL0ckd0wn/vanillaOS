@@ -1,12 +1,10 @@
 # Mxrkdv's vanillaOS Image
-Just for me, not anyone alse. pls no fork for push.
+Just for me, not anyone alse. pls no fork for push. Based on `vanilla-os/desktop:main`
 
-## Features
-- Tailscale is pre-bundled
+## QoL things that are preinstalled in this image
+- Has Tailscale & Docker for local and remote development
 
-## Use your custom image
-
-If your image is successfully built, you can then point ABRoot to your custom image to use it.
+## Install this f*ck a** image
 
 - Edit the configuration file with the command: `abroot config-editor`.
 - Change the "name" entry from something like `vanilla-os/desktop` to `termzl0ckd0wn/vanillaos`.  [**Note**: All characters must be in lowercase.]

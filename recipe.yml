@@ -31,6 +31,8 @@ stages:
       - vim
       - bash
       - fastfetch
+      - openjdk-8-jdk
+      - openjdk-21-jdk
 
   - name: Install Tailscale
     type: shell

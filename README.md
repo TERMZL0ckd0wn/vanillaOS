@@ -3,6 +3,7 @@ Just for me, not anyone alse. pls no fork for push. Based on `vanilla-os/desktop
 
 ## Things inside this image
 - Tailscale for remote management
+- Java (test to see can java apps access x11 or wayland)
 
 ## Install this f*ck a** image
 
